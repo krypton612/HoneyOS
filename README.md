@@ -16,7 +16,8 @@ Before starting, ensure the following tools are installed on your system:
 ## Setup
 ### Step 1 — Clone this repository
 
-Clone el **repositorio** y continue con el proceso.
+
+Clone the **repository** and continue with the process.
 
 ```bash
 git clone https://github.com/krypton612/HoneyOS
@@ -36,9 +37,8 @@ sudo chown 2000:2000 data
 
 ### Step 3 — Run this project
 
-Para ejecutar el proyecto debe tomar en cuenta
-que este proyecto es muy pesado y debera tener almenos 
-15 Gb de espacio y 16 de RAM
+
+To run the project, please note that it is a very large project and will require at least 15 GB of disk space and 16 GB of RAM.
 
 ```bash
 docker compose up -d
@@ -46,3 +46,4 @@ docker compose up -d
 
 
 ## Documentation
+[HoneyOS - Documentation](https://krypton612.github.io/docs/)
