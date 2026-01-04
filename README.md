@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# HoneyOS
-=======
 ## Overview
 
 This repository is a **fork and practical guide based on the T-Pot project**, intended for deployment and experimentation purposes.
@@ -49,4 +46,3 @@ docker compose up -d
 
 
 ## Documentation
->>>>>>> 61e42f0 (has config docker compose)
